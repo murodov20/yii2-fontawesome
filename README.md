@@ -1,6 +1,8 @@
 Yii 2 [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Asset Bundle
 ===============================
 
+Forked From [rmrevin/yii2-fontawesome](https://github.com/rmrevin/yii2-fontawesome)
+
 This extension provides a assets bundle with [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 for [Yii framework 2.0](http://www.yiiframework.com/) applications and helper to use icons.
 
